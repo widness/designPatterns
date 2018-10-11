@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c06eedae-4d16-4a5c-a17f-0745da777312" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1761562900">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="adventureGame" value="1" />
+          <entry key="car" value="2" />
+          <entry key="form" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="73" />
+          <entry key="kt" value="1" />
+          <entry key="onlineShop" value="1" />
+          <entry key="refactoring" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="73" />
+          <entry key="Kotlin" value="1" />
+          <entry key="UML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="28" />
+          <entry key="java" value="1278" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1278" />
+          <entry key="PLAIN_TEXT" value="28" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-981754214">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="4" />
+          <entry key="md" value="1" />
+          <entry key="refactoring" value="1" />
+          <entry key="strategy" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="UML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="designPatterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hotelDecorator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>skiPassDecorator</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Widness\Dropbox\5_School\designPatterns\src\lab\lab1_ex2</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Character.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/KnifeBehavior.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/AxeBehavior.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Queen.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/King.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/StrategySortLauncher.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/sortBehavior.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/Subject.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/BinaryObserver.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/HexaObserver.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/Observer.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/ObserverPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/observable/example/OctalObserver.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/sort/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationSubstract.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationMultiply.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/Context.java" />
+        <option value="$PROJECT_DIR$/src/lab/strategy/example/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/Shape.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/Circle.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/RedShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/example/DecoratorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/CarDecoratorLaucher.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/Car.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/AntiSlidingSystemDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/EngineDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/ColorDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/CarSport.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/CarBreak.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/CarBerlin.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/SkiPass.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/Welness.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/RoomDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/SkiPassDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/FlatDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/DefaultService.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/WelnessDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/OnlineShopDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1549" />
+    <option name="y" value="-1094" />
+    <option name="width" value="1551" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="267" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539260974243" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Widness\Dropbox\5_School\designPatterns\src\lab\strategy\refactoring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OnlineShopDemo">
+    <configuration name="CarDecoratorLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.design.car.CarDecoratorLauncher" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.design.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.strategy.adventureGame.Main" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.strategy.adventureGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.observable.example.ObserverPatternDemo" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.observable.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineShopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.design.onlineShop.OnlineShopDemo" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.design.onlineShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategySortLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.strategy.refactoring.StrategySortLauncher" />
+      <module name="designPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.strategy.refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StrategySortLauncher" />
+      <item itemvalue="Application.ObserverPatternDemo" />
+      <item itemvalue="Application.CarDecoratorLauncher" />
+      <item itemvalue="Application.OnlineShopDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineShopDemo" />
+        <item itemvalue="Application.CarDecoratorLauncher" />
+        <item itemvalue="Application.ObserverPatternDemo" />
+        <item itemvalue="Application.StrategySortLauncher" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06eedae-4d16-4a5c-a17f-0745da777312" name="Default" comment="" />
+      <created>1537521486565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537521486565</updated>
+      <workItem from="1537521491641" duration="862000" />
+      <workItem from="1537598068051" duration="95000" />
+      <workItem from="1538067321132" duration="156000" />
+      <workItem from="1538081302173" duration="4000" />
+      <workItem from="1538081620668" duration="2066000" />
+      <workItem from="1538123445974" duration="4539000" />
+      <workItem from="1538413343780" duration="1508000" />
+      <workItem from="1538416226868" duration="97000" />
+      <workItem from="1538652482453" duration="2663000" />
+      <workItem from="1538727877391" duration="1370000" />
+      <workItem from="1539248000060" duration="8287000" />
+      <workItem from="1539260567032" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1336" y="-1088" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.19029851" />
+      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32178932" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Strategz.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationSubstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lab.strategy.adventureGame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.strategy.adventureGame</OriginalElement>
+          <nodes>
+            <node x="113.5" y="0.0">lab.strategy.adventureGame.WeaponBehavior</node>
+            <node x="53.52272727272728" y="158.0">lab.strategy.adventureGame.King</node>
+            <node x="145.14015151515153" y="257.0">lab.strategy.adventureGame.Main</node>
+            <node x="252.0" y="79.0">lab.strategy.adventureGame.KnifeBehavior</node>
+            <node x="235.5132575757576" y="158.0">lab.strategy.adventureGame.Queen</node>
+            <node x="0.0" y="79.0">lab.strategy.adventureGame.AxeBehavior</node>
+            <node x="134.0" y="79.0">lab.strategy.adventureGame.Character</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lab.strategy.adventureGame.KnifeBehavior" target="lab.strategy.adventureGame.WeaponBehavior">
+              <point x="0.0" y="-14.5" />
+              <point x="312.5" y="54.0" />
+              <point x="235.125" y="54.0" />
+              <point x="52.125" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.KnifeBehavior">
+              <point x="32.375" y="-14.5" />
+              <point x="214.51515151515153" y="237.0" />
+              <point x="337.26325757575756" y="237.0" />
+              <point x="337.26325757575756" y="133.0" />
+              <point x="357.875" y="133.0" />
+              <point x="45.375" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.King" target="lab.strategy.adventureGame.AxeBehavior">
+              <point x="0.0" y="-14.5" />
+              <point x="89.52272727272728" y="133.0" />
+              <point x="99.75" y="133.0" />
+              <point x="42.75" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Queen" target="lab.strategy.adventureGame.Character">
+              <point x="-27.33333333333333" y="-14.5" />
+              <point x="249.17992424242425" y="133.0" />
+              <point x="207.5" y="133.0" />
+              <point x="24.5" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.King" target="lab.strategy.adventureGame.Character">
+              <point x="24.0" y="-14.5" />
+              <point x="113.52272727272728" y="133.0" />
+              <point x="158.5" y="133.0" />
+              <point x="-24.5" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.King">
+              <point x="-4.625" y="-14.5" />
+              <point x="177.51515151515153" y="207.0" />
+              <point x="107.52272727272728" y="207.0" />
+              <point x="18.0" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.Queen">
+              <point x="4.625" y="-14.5" />
+              <point x="186.76515151515153" y="207.0" />
+              <point x="256.0132575757576" y="207.0" />
+              <point x="-20.5" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.AxeBehavior">
+              <point x="-23.125" y="-14.5" />
+              <point x="159.01515151515153" y="227.0" />
+              <point x="43.02272727272728" y="227.0" />
+              <point x="-14.25" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Queen" target="lab.strategy.adventureGame.KnifeBehavior">
+              <point x="27.33333333333333" y="-14.5" />
+              <point x="303.84659090909093" y="133.0" />
+              <point x="297.375" y="133.0" />
+              <point x="-15.125" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.Character" target="lab.strategy.adventureGame.WeaponBehavior">
+              <point x="24.5" y="-14.5" />
+              <point x="207.5" y="54.0" />
+              <point x="200.375" y="54.0" />
+              <point x="17.375" y="14.5" />
+            </edge>
+            <edge source="lab.strategy.adventureGame.AxeBehavior" target="lab.strategy.adventureGame.WeaponBehavior">
+              <point x="0.0" y="-14.5" />
+              <point x="57.0" y="54.0" />
+              <point x="130.875" y="54.0" />
+              <point x="-52.125" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-259.0" y="44.0" />
+          <SelectedNodes>
+            <node>lab.strategy.adventureGame.WeaponBehavior</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/sortBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/ShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AntiSlidingSystemDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/DecoratorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/example/RedShapeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarBerlin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarSport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/ColorDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Welness.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Hotel.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lab.design.car">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.design.car</OriginalElement>
+          <nodes>
+            <node x="" y="">lab.design.car.EngineDecorator</node>
+            <node x="" y="">lab.design.car.BreakingSystemDecorator</node>
+            <node x="" y="">lab.design.car.CarSport</node>
+            <node x="" y="">lab.design.car.AntiSlidingSystemDecorator</node>
+            <node x="" y="">lab.design.car.CarDecoratorLauncher</node>
+            <node x="" y="">lab.design.car.Car</node>
+            <node x="" y="">lab.design.car.CarBreak</node>
+            <node x="" y="">lab.design.car.ColorDecorator</node>
+            <node x="" y="">lab.design.car.CarBerlin</node>
+            <node x="" y="">lab.design.car.AirbagDecorator</node>
+            <node x="" y="">lab.design.car.SecurityDecorator</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="661.0" y="213.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/SkiPass.java" />
+    <entry file="uml://JAVA/lab.design.onlineShop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.design.onlineShop</OriginalElement>
+          <nodes>
+            <node x="731.5" y="123.0">lab.design.onlineShop.SkiPassDecorator</node>
+            <node x="418.0" y="0.0">lab.design.onlineShop.Service</node>
+            <node x="0.0" y="364.0">lab.design.onlineShop.OnlineShopDemo</node>
+            <node x="104.5" y="123.0">lab.design.onlineShop.HotelDecorator</node>
+            <node x="209.00000000000003" y="246.0">lab.design.onlineShop.RoomDecorator</node>
+            <node x="522.5" y="123.0">lab.design.onlineShop.WelnessDecorator</node>
+            <node x="313.5" y="123.0">lab.design.onlineShop.DefaultService</node>
+            <node x="0.0" y="246.0">lab.design.onlineShop.FlatDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lab.design.onlineShop.SkiPassDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-36.5" />
+              <point x="826.0" y="93.0" />
+              <point x="583.375" y="93.0" />
+              <point x="70.875" y="36.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.RoomDecorator" target="lab.design.onlineShop.HotelDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="303.5" y="221.0" />
+              <point x="246.25" y="221.0" />
+              <point x="47.25" y="36.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.DefaultService" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-36.5" />
+              <point x="408.0" y="103.0" />
+              <point x="488.875" y="103.0" />
+              <point x="-23.625" y="36.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.WelnessDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-36.5" />
+              <point x="617.0" y="103.0" />
+              <point x="536.125" y="103.0" />
+              <point x="23.625" y="36.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.FlatDecorator" target="lab.design.onlineShop.HotelDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="94.5" y="221.0" />
+              <point x="151.75" y="221.0" />
+              <point x="-47.25" y="36.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.HotelDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-36.5" />
+              <point x="199.0" y="93.0" />
+              <point x="441.625" y="93.0" />
+              <point x="-70.875" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarDecoratorLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/SkiPassDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/WelnessDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/FlatDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/EngineDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/OnlineShopDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/RoomDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/DefaultService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">org</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="206.5" y="236.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lab.strategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.strategy</OriginalElement>
+          <nodes>
+            <node x="" y="">lab.strategy.adventureGame</node>
+            <node x="" y="">lab.strategy.example</node>
+            <node x="" y="">lab.strategy.refactoring</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="81.5" y="88.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lab.strategy.refactoring">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.strategy.refactoring</OriginalElement>
+          <nodes>
+            <node x="" y="">lab.strategy.refactoring.InsertSort</node>
+            <node x="" y="">lab.strategy.refactoring.StrategySortLauncher</node>
+            <node x="" y="">lab.strategy.refactoring.SelectionSort</node>
+            <node x="" y="">lab.strategy.refactoring.Sorter</node>
+            <node x="" y="">lab.strategy.refactoring.sortBehavior</node>
+            <node x="" y="">lab.strategy.refactoring.BubbleSort</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="181.5" y="91.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/StrategySortLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>designPatterns</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
