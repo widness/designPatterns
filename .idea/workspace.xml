@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c06eedae-4d16-4a5c-a17f-0745da777312" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/building/ArchitectOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/car/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/factory/example/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/SimpleSingleton/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/SimpleSingleton/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/carSensors/CarSensorSingletonLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/DbleCheckedLockingSingletonSensorsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/EagerSingletonSensorsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SimpleSingletonSensorsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SynchSingletonSensorsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/doubleCheckLocking/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/singleton/eagerCreation/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/design/car/AirbagDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/design/car/AirbagDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/design/car/SecurityDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/design/car/SecurityDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/design/onlineShop/HotelDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/design/onlineShop/HotelDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,26 +87,42 @@
     <session id="-981754214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="4" />
+          <entry key="java" value="53" />
           <entry key="md" value="1" />
+          <entry key="onlineShop" value="1" />
           <entry key="refactoring" value="1" />
+          <entry key="sensor_manager" value="1" />
           <entry key="strategy" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="53" />
           <entry key="Markdown" value="1" />
-          <entry key="UML" value="3" />
+          <entry key="UML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="873" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="873" />
         </counts>
       </usages-collector>
     </session>
@@ -92,13 +131,107 @@
     <favorites_list name="designPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/CoupeCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/CarCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/building/ArchitectOffice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/BricksWall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/WoodWall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/Wall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/building/house/House.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/car/cars/Pickup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/MinivanCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/PickupCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,6 +258,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Widness\Dropbox\5_School\designPatterns\src\lab\lab1_ex2</dir>
+      <dir>C:\Users\Widness\Documents\Projects\designPatterns\src\lab</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -133,42 +267,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Character.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/KnifeBehavior.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/AxeBehavior.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Queen.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/King.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/adventureGame/Main.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/StrategySortLauncher.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/sortBehavior.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/behavior/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/Subject.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/BinaryObserver.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/HexaObserver.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/Observer.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/ObserverPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/lab/observable/example/OctalObserver.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/refactoring/sort/Sorter.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationSubstract.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationAdd.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/OperationMultiply.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/Context.java" />
-        <option value="$PROJECT_DIR$/src/lab/strategy/example/StrategyPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/lab/design/example/Shape.java" />
-        <option value="$PROJECT_DIR$/src/lab/design/example/Circle.java" />
         <option value="$PROJECT_DIR$/src/lab/design/example/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/lab/design/example/ShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/example/RedShapeDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/example/DecoratorPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/CarDecoratorLaucher.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/Car.java" />
-        <option value="$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java" />
-        <option value="$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/AntiSlidingSystemDecorator.java" />
-        <option value="$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/EngineDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/ColorDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/car/CarSport.java" />
@@ -184,6 +289,35 @@
         <option value="$PROJECT_DIR$/src/lab/design/onlineShop/WelnessDecorator.java" />
         <option value="$PROJECT_DIR$/src/lab/design/onlineShop/OnlineShopDemo.java" />
         <option value="$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/example/SingletonPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/doubleCheckLocking/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/eagerCreation/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/example/SingleObject.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/CarSensorSingletonLauncher.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/SimpleSingleton/SingleObject.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/DbleCheckedLockingSingletonSensorsManager.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/EagerSingletonSensorsManager.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SynchSingletonSensorsManager.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SingletonSensorManager.java" />
+        <option value="$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SimpleSingletonSensorsManager.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/Shape.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/Square.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/Circle.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/example/FactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/Demo.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/Program.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/creator/CoupeCreator.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/creator/MinivanCreator.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/creator/PickupCreator.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/car/creator/CarCreator.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/building/ArchitectOffice.java" />
+        <option value="$PROJECT_DIR$/src/lab/factory/building/house/House.java" />
       </list>
     </option>
   </component>
@@ -193,18 +327,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1549" />
-    <option name="y" value="-1094" />
-    <option name="width" value="1551" />
-    <option name="height" value="847" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1298" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,18 +355,52 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="building" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="building" type="462c0819:PsiDirectoryNode" />
+              <item name="house" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="building" type="462c0819:PsiDirectoryNode" />
+              <item name="wall" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="267" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539260974243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539345873913" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -245,6 +411,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\factory\building" />
+      <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\factory\car" />
+      <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\singleton\carSensors" />
       <recent name="C:\Users\Widness\Dropbox\5_School\designPatterns\src\lab\strategy\refactoring" />
     </key>
   </component>
@@ -260,7 +429,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OnlineShopDemo">
+  <component name="RunManager" selected="Application.CarSensorSingletonLauncher">
     <configuration name="CarDecoratorLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab.design.car.CarDecoratorLauncher" />
       <module name="designPatterns" />
@@ -275,13 +444,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.strategy.adventureGame.Main" />
+    <configuration name="CarSensorSingletonLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.singleton.carSensors.CarSensorSingletonLauncher" />
       <module name="designPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab.strategy.adventureGame.*" />
+          <option name="PATTERN" value="lab.singleton.carSensors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,19 +523,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.StrategySortLauncher" />
       <item itemvalue="Application.ObserverPatternDemo" />
       <item itemvalue="Application.CarDecoratorLauncher" />
       <item itemvalue="Application.OnlineShopDemo" />
+      <item itemvalue="Application.CarSensorSingletonLauncher" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarSensorSingletonLauncher" />
         <item itemvalue="Application.OnlineShopDemo" />
         <item itemvalue="Application.CarDecoratorLauncher" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.StrategySortLauncher" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -392,26 +561,30 @@
       <workItem from="1538727877391" duration="1370000" />
       <workItem from="1539248000060" duration="8287000" />
       <workItem from="1539260567032" duration="279000" />
+      <workItem from="1539260961817" duration="147000" />
+      <workItem from="1539332786832" duration="1301000" />
+      <workItem from="1539341956966" duration="3913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21926000" />
+    <option name="totallyTimeSpent" value="27287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1336" y="-1088" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="0" width="1038" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.19029851" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.29243353" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3286334" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33142036" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -438,461 +611,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Strategz.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationSubstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/OperationMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/lab.strategy.adventureGame">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>lab.strategy.adventureGame</OriginalElement>
-          <nodes>
-            <node x="113.5" y="0.0">lab.strategy.adventureGame.WeaponBehavior</node>
-            <node x="53.52272727272728" y="158.0">lab.strategy.adventureGame.King</node>
-            <node x="145.14015151515153" y="257.0">lab.strategy.adventureGame.Main</node>
-            <node x="252.0" y="79.0">lab.strategy.adventureGame.KnifeBehavior</node>
-            <node x="235.5132575757576" y="158.0">lab.strategy.adventureGame.Queen</node>
-            <node x="0.0" y="79.0">lab.strategy.adventureGame.AxeBehavior</node>
-            <node x="134.0" y="79.0">lab.strategy.adventureGame.Character</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="lab.strategy.adventureGame.KnifeBehavior" target="lab.strategy.adventureGame.WeaponBehavior">
-              <point x="0.0" y="-14.5" />
-              <point x="312.5" y="54.0" />
-              <point x="235.125" y="54.0" />
-              <point x="52.125" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.KnifeBehavior">
-              <point x="32.375" y="-14.5" />
-              <point x="214.51515151515153" y="237.0" />
-              <point x="337.26325757575756" y="237.0" />
-              <point x="337.26325757575756" y="133.0" />
-              <point x="357.875" y="133.0" />
-              <point x="45.375" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.King" target="lab.strategy.adventureGame.AxeBehavior">
-              <point x="0.0" y="-14.5" />
-              <point x="89.52272727272728" y="133.0" />
-              <point x="99.75" y="133.0" />
-              <point x="42.75" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Queen" target="lab.strategy.adventureGame.Character">
-              <point x="-27.33333333333333" y="-14.5" />
-              <point x="249.17992424242425" y="133.0" />
-              <point x="207.5" y="133.0" />
-              <point x="24.5" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.King" target="lab.strategy.adventureGame.Character">
-              <point x="24.0" y="-14.5" />
-              <point x="113.52272727272728" y="133.0" />
-              <point x="158.5" y="133.0" />
-              <point x="-24.5" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.King">
-              <point x="-4.625" y="-14.5" />
-              <point x="177.51515151515153" y="207.0" />
-              <point x="107.52272727272728" y="207.0" />
-              <point x="18.0" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.Queen">
-              <point x="4.625" y="-14.5" />
-              <point x="186.76515151515153" y="207.0" />
-              <point x="256.0132575757576" y="207.0" />
-              <point x="-20.5" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Main" target="lab.strategy.adventureGame.AxeBehavior">
-              <point x="-23.125" y="-14.5" />
-              <point x="159.01515151515153" y="227.0" />
-              <point x="43.02272727272728" y="227.0" />
-              <point x="-14.25" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Queen" target="lab.strategy.adventureGame.KnifeBehavior">
-              <point x="27.33333333333333" y="-14.5" />
-              <point x="303.84659090909093" y="133.0" />
-              <point x="297.375" y="133.0" />
-              <point x="-15.125" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.Character" target="lab.strategy.adventureGame.WeaponBehavior">
-              <point x="24.5" y="-14.5" />
-              <point x="207.5" y="54.0" />
-              <point x="200.375" y="54.0" />
-              <point x="17.375" y="14.5" />
-            </edge>
-            <edge source="lab.strategy.adventureGame.AxeBehavior" target="lab.strategy.adventureGame.WeaponBehavior">
-              <point x="0.0" y="-14.5" />
-              <point x="57.0" y="54.0" />
-              <point x="130.875" y="54.0" />
-              <point x="-52.125" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-259.0" y="44.0" />
-          <SelectedNodes>
-            <node>lab.strategy.adventureGame.WeaponBehavior</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/example/StrategyPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/sortBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/ShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AntiSlidingSystemDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/DecoratorPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/example/RedShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarBerlin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarSport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/ColorDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Welness.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Hotel.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/lab.design.car">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>lab.design.car</OriginalElement>
-          <nodes>
-            <node x="" y="">lab.design.car.EngineDecorator</node>
-            <node x="" y="">lab.design.car.BreakingSystemDecorator</node>
-            <node x="" y="">lab.design.car.CarSport</node>
-            <node x="" y="">lab.design.car.AntiSlidingSystemDecorator</node>
-            <node x="" y="">lab.design.car.CarDecoratorLauncher</node>
-            <node x="" y="">lab.design.car.Car</node>
-            <node x="" y="">lab.design.car.CarBreak</node>
-            <node x="" y="">lab.design.car.ColorDecorator</node>
-            <node x="" y="">lab.design.car.CarBerlin</node>
-            <node x="" y="">lab.design.car.AirbagDecorator</node>
-            <node x="" y="">lab.design.car.SecurityDecorator</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="661.0" y="213.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/SkiPass.java" />
-    <entry file="uml://JAVA/lab.design.onlineShop">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>lab.design.onlineShop</OriginalElement>
-          <nodes>
-            <node x="731.5" y="123.0">lab.design.onlineShop.SkiPassDecorator</node>
-            <node x="418.0" y="0.0">lab.design.onlineShop.Service</node>
-            <node x="0.0" y="364.0">lab.design.onlineShop.OnlineShopDemo</node>
-            <node x="104.5" y="123.0">lab.design.onlineShop.HotelDecorator</node>
-            <node x="209.00000000000003" y="246.0">lab.design.onlineShop.RoomDecorator</node>
-            <node x="522.5" y="123.0">lab.design.onlineShop.WelnessDecorator</node>
-            <node x="313.5" y="123.0">lab.design.onlineShop.DefaultService</node>
-            <node x="0.0" y="246.0">lab.design.onlineShop.FlatDecorator</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="lab.design.onlineShop.SkiPassDecorator" target="lab.design.onlineShop.Service">
-              <point x="0.0" y="-36.5" />
-              <point x="826.0" y="93.0" />
-              <point x="583.375" y="93.0" />
-              <point x="70.875" y="36.5" />
-            </edge>
-            <edge source="lab.design.onlineShop.RoomDecorator" target="lab.design.onlineShop.HotelDecorator">
-              <point x="0.0" y="-36.5" />
-              <point x="303.5" y="221.0" />
-              <point x="246.25" y="221.0" />
-              <point x="47.25" y="36.5" />
-            </edge>
-            <edge source="lab.design.onlineShop.DefaultService" target="lab.design.onlineShop.Service">
-              <point x="0.0" y="-36.5" />
-              <point x="408.0" y="103.0" />
-              <point x="488.875" y="103.0" />
-              <point x="-23.625" y="36.5" />
-            </edge>
-            <edge source="lab.design.onlineShop.WelnessDecorator" target="lab.design.onlineShop.Service">
-              <point x="0.0" y="-36.5" />
-              <point x="617.0" y="103.0" />
-              <point x="536.125" y="103.0" />
-              <point x="23.625" y="36.5" />
-            </edge>
-            <edge source="lab.design.onlineShop.FlatDecorator" target="lab.design.onlineShop.HotelDecorator">
-              <point x="0.0" y="-36.5" />
-              <point x="94.5" y="221.0" />
-              <point x="151.75" y="221.0" />
-              <point x="-47.25" y="36.5" />
-            </edge>
-            <edge source="lab.design.onlineShop.HotelDecorator" target="lab.design.onlineShop.Service">
-              <point x="0.0" y="-36.5" />
-              <point x="199.0" y="93.0" />
-              <point x="441.625" y="93.0" />
-              <point x="-70.875" y="36.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/CarDecoratorLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="45" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/SkiPassDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/WelnessDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/FlatDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/EngineDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/OnlineShopDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/RoomDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/DefaultService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/strategy/refactoring/test.java" />
     <entry file="file://$PROJECT_DIR$/designPatterns.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -915,7 +634,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="206.5" y="236.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="207.0" y="237.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -935,7 +654,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="81.5" y="88.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="82.0" y="89.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -958,7 +677,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="181.5" y="91.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="182.0" y="91.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -980,11 +699,454 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/lab.design.onlineShop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.design.onlineShop</OriginalElement>
+          <nodes>
+            <node x="389.25" y="79.0">lab.design.onlineShop.SkiPassDecorator</node>
+            <node x="335.5" y="0.0">lab.design.onlineShop.Service</node>
+            <node x="0.0" y="232.0">lab.design.onlineShop.OnlineShopDemo</node>
+            <node x="74.24999999999997" y="79.0">lab.design.onlineShop.HotelDecorator</node>
+            <node x="0.0" y="158.0">lab.design.onlineShop.RoomDecorator</node>
+            <node x="225.24999999999997" y="79.0">lab.design.onlineShop.WelnessDecorator</node>
+            <node x="548.25" y="79.0">lab.design.onlineShop.DefaultService</node>
+            <node x="152.99999999999997" y="158.0">lab.design.onlineShop.FlatDecorator</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lab.design.onlineShop.RoomDecorator" target="lab.design.onlineShop.HotelDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="66.5" y="133.0" />
+              <point x="106.99999999999997" y="133.0" />
+              <point x="-32.75" y="14.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.SkiPassDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-14.5" />
+              <point x="458.75" y="59.0" />
+              <point x="388.625" y="59.0" />
+              <point x="10.625" y="14.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.DefaultService" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-14.5" />
+              <point x="610.25" y="49.0" />
+              <point x="409.875" y="49.0" />
+              <point x="31.875" y="14.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.WelnessDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-14.5" />
+              <point x="297.25" y="59.0" />
+              <point x="367.375" y="59.0" />
+              <point x="-10.625" y="14.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.FlatDecorator" target="lab.design.onlineShop.HotelDecorator">
+              <point x="0.0" y="-14.5" />
+              <point x="212.99999999999997" y="133.0" />
+              <point x="172.49999999999997" y="133.0" />
+              <point x="32.75" y="14.5" />
+            </edge>
+            <edge source="lab.design.onlineShop.HotelDecorator" target="lab.design.onlineShop.Service">
+              <point x="0.0" y="-14.5" />
+              <point x="139.74999999999997" y="49.0" />
+              <point x="346.125" y="49.0" />
+              <point x="-31.875" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="333.0" y="131.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/OnlineShopDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/onlineShop/HotelDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="1" selection-start-line="16" selection-start-column="50" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/SimpleSingleton/SingletonPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensors/TemperatureSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensors/SpeedSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensors/RoadConditionSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensors/ISensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/lab.singleton.carSensors.sensor_manager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>lab.singleton.carSensors.sensor_manager</OriginalElement>
+          <nodes>
+            <node x="-392.5" y="-68.5">lab.singleton.carSensors.sensor_manager.SimpleSingletonSensorsManager</node>
+            <node x="-234.0" y="-166.5">lab.singleton.carSensors.sensor_manager.SingletonSensorManager</node>
+            <node x="-150.5" y="-68.5">lab.singleton.carSensors.sensor_manager.DbleCheckedLockingSingletonSensorsManager</node>
+            <node x="165.5" y="-68.5">lab.singleton.carSensors.sensor_manager.EagerSingletonSensorsManager</node>
+            <node x="-627.5" y="-68.5">lab.singleton.carSensors.sensor_manager.SynchSingletonSensorsManager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="lab.singleton.carSensors.sensor_manager.DbleCheckedLockingSingletonSensorsManager" target="lab.singleton.carSensors.sensor_manager.SingletonSensorManager">
+              <point x="0.0" y="-14.5" />
+              <point x="-2.5" y="-88.5" />
+              <point x="-119.5" y="-88.5" />
+              <point x="22.5" y="14.5" />
+            </edge>
+            <edge source="lab.singleton.carSensors.sensor_manager.EagerSingletonSensorsManager" target="lab.singleton.carSensors.sensor_manager.SingletonSensorManager">
+              <point x="0.0" y="-14.5" />
+              <point x="273.0" y="-98.5" />
+              <point x="-74.5" y="-98.5" />
+              <point x="67.5" y="14.5" />
+            </edge>
+            <edge source="lab.singleton.carSensors.sensor_manager.SynchSingletonSensorsManager" target="lab.singleton.carSensors.sensor_manager.SingletonSensorManager">
+              <point x="0.0" y="-14.5" />
+              <point x="-520.0" y="-98.5" />
+              <point x="-209.5" y="-98.5" />
+              <point x="-67.5" y="14.5" />
+            </edge>
+            <edge source="lab.singleton.carSensors.sensor_manager.SimpleSingletonSensorsManager" target="lab.singleton.carSensors.sensor_manager.SingletonSensorManager">
+              <point x="0.0" y="-14.5" />
+              <point x="-281.5" y="-88.5" />
+              <point x="-164.5" y="-88.5" />
+              <point x="-22.5" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-438.0" y="-6.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/doubleCheckLocking/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/eagerCreation/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/SimpleSingleton/SingleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SimpleSingletonSensorsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SynchSingletonSensorsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/DbleCheckedLockingSingletonSensorsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/EagerSingletonSensorsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/BreakingSystemDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AntiSlidingSystemDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/SecurityDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/design/car/AirbagDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/CarSensorSingletonLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/singleton/carSensors/sensor_manager/SingletonSensorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/example/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/cars/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/cars/Coupe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/cars/Minivan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/cars/Pickup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/MinivanCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/PickupCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/CoupeCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/car/creator/CarCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/building/ArchitectOffice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/BricksWall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/WoodWall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/building/wall/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/building/house/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>

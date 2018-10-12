@@ -7,7 +7,7 @@ public class AirbagDecorator extends SecurityDecorator {
 
     @Override
     public String getCost() {
-        return super.getCost() + " 300";
+        return  " 300";
     }
 
     @Override

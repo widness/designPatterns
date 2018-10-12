@@ -1,6 +1,6 @@
 package lab.design.car;
 
-public class SecurityDecorator implements Car {
+public abstract class SecurityDecorator implements Car {
     protected Car securityDecorator;
 
     public SecurityDecorator(Car securityDecorator) {

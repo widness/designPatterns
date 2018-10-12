@@ -1,6 +1,6 @@
 package lab.design.onlineShop;
 
-public class HotelDecorator implements Service {
+public abstract class HotelDecorator implements Service {
     protected Service hotelDecorator;
 
     public HotelDecorator(Service hotelDecorator) {
