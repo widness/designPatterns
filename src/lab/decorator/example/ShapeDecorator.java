@@ -1,4 +1,4 @@
-package lab.design.example;
+package lab.decorator.example;
 
 public abstract class ShapeDecorator implements Shape {
     protected Shape decoratedShape;

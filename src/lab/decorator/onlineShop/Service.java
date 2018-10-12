@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public interface Service {
     String getPrice();

@@ -1,4 +1,4 @@
-package lab.design.car;
+package lab.decorator.car;
 
 public class AirbagDecorator extends SecurityDecorator {
     public AirbagDecorator(Car securityDecorator) {

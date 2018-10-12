@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public class DefaultService implements Service {
     @Override

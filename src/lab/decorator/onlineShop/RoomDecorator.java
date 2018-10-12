@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public class RoomDecorator extends HotelDecorator {
     public RoomDecorator(Service hotelDecorator) {

@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public class SkiPassDecorator implements Service {
     protected Service skiPassDecorator;

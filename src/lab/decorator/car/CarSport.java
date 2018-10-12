@@ -1,4 +1,4 @@
-package lab.design.car;
+package lab.decorator.car;
 
 public class CarSport implements Car {
     @Override

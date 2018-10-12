@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public abstract class HotelDecorator implements Service {
     protected Service hotelDecorator;

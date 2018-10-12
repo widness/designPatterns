@@ -1,4 +1,4 @@
-package lab.design.onlineShop;
+package lab.decorator.onlineShop;
 
 public class WelnessDecorator implements Service {
     protected Service welnessDecorator;

@@ -1,4 +1,4 @@
-package lab.design.car;
+package lab.decorator.car;
 
 public class BreakingSystemDecorator extends SecurityDecorator {
     public BreakingSystemDecorator(Car securityDecorator) {

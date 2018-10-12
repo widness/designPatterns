@@ -1,4 +1,4 @@
-package lab.design.example;
+package lab.decorator.example;
 
 public class DecoratorPatternDemo {
     public static void main(String[] args) {
