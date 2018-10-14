@@ -1,7 +1,7 @@
-package lab.factory.building.house;
+package lab.abstractFactory.building.house;
 
-import lab.factory.building.wall.Wall;
-import lab.factory.building.wall.WoodWall;
+import lab.abstractFactory.building.wall.Wall;
+import lab.abstractFactory.building.wall.WoodWall;
 
 /**
  * Lab 4
