@@ -1,10 +1,7 @@
 package lab.abstractFactory.car;
 
 import lab.abstractFactory.car.cars.Car;
-import lab.abstractFactory.car.creator.CarCreator;
-import lab.abstractFactory.car.creator.CoupeCreator;
-import lab.abstractFactory.car.creator.MinivanCreator;
-import lab.abstractFactory.car.creator.PickupCreator;
+import lab.abstractFactory.car.creator.*;
 
 /**
  * Lab 4
@@ -13,9 +10,13 @@ import lab.abstractFactory.car.creator.PickupCreator;
 public class Program {
 	public static void main(String[] args) {
 
-        CarCreator coupeCreator = new CoupeCreator();
-        CarCreator minivanCreator = new MinivanCreator();
-        CarCreator pickupCreator = new PickupCreator();
+	    FactoryProducer fp = new FactoryProducer();
+        AbstractFactory carCreatorFactory = fp.getFactory("CARFACTORY");
+        AbstractFactory cacFactory = fp.getFactory("CAR");
+
+        CarCreator coupeCreator = carCreatorFactory.getCreator("COUPE");
+        CarCreator minivanCreator = carCreatorFactory.getCreator("MINIVAN");
+        CarCreator pickupCreator = carCreatorFactory.getCreator("PICKUP");
 
         Car c1 = coupeCreator.orderCar("red");
         System.out.println("Car " + c1.getName() + " " + c1.getColor() + " has been ordered.");
