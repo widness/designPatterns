@@ -2,43 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c06eedae-4d16-4a5c-a17f-0745da777312" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/footballTeam/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/footballTeam/composite/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/footballTeam/leaf/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/footballTeam/leaf/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menu/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menu/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menu/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menu/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/CompositeIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/MenuComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/NullIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/composite/menuIterator/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/GumballMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/GumballMachineTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/NoQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/SoldState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/exemple/WinnerState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/SkypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/SkypeGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/state/InMeeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/state/Registered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/state/Speaking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/meeting/state/WaitingToSpeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab/state/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/CheckAuthority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/DirectorPPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/ManagerPPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/PresidentPPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/PurchasePower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/VicePresidentPPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/example/request/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/ArmyPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/Capitaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/Lieutenant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/SergentMajor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/command/car/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/command/car/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/command/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/command/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab/composite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/composite/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/chainOfResponsability/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/chainOfResponsability/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designPatterns/lab/state/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designPatterns/lab/state/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/chainOfResponsability/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/chainOfResponsability/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,7 +83,7 @@
     <session id="-981754214">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -131,9 +111,9 @@
           <entry key="factory" value="1" />
           <entry key="house" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="472" />
+          <entry key="java" value="503" />
           <entry key="m" value="1" />
-          <entry key="md" value="41" />
+          <entry key="md" value="44" />
           <entry key="menu" value="2" />
           <entry key="onlineShop" value="1" />
           <entry key="refactoring" value="1" />
@@ -146,24 +126,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="472" />
-          <entry key="Markdown" value="41" />
+          <entry key="JAVA" value="503" />
+          <entry key="Markdown" value="44" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="UML" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="33" />
-          <entry key="java" value="9505" />
-          <entry key="md" value="7114" />
+          <entry key="dummy" value="52" />
+          <entry key="java" value="10348" />
+          <entry key="md" value="7909" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9505" />
-          <entry key="Markdown" value="7114" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="JAVA" value="10348" />
+          <entry key="Markdown" value="7909" />
+          <entry key="PLAIN_TEXT" value="52" />
         </counts>
       </usages-collector>
     </session>
@@ -172,28 +152,15 @@
     <favorites_list name="designPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab/state/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="99" selection-start-line="2" selection-start-column="99" selection-end-line="2" selection-end-column="99" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
         <option value="Kotlin File" />
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -202,6 +169,7 @@
     <findStrings>
       <find>hotelDecorator</find>
       <find>unDo</find>
+      <find>purchase</find>
     </findStrings>
     <replaceStrings>
       <replace>skiPassDecorator</replace>
@@ -219,19 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lab/Facade/example/HomeTheaterFacade.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/example/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/example/DuckAdapter.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/example/Duck.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/example/Turkey.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/example/DuckTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/readme.md" />
-        <option value="$PROJECT_DIR$/src/lab/Facade/readme.md" />
-        <option value="$PROJECT_DIR$/src/lab/adapter/exercice/interfaces/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/lab/TemplateMethod/example/importe/CaffeineBeverage.java" />
-        <option value="$PROJECT_DIR$/src/lab/TemplateMethod/example/CaffeineBeverage.java" />
-        <option value="$PROJECT_DIR$/src/lab/TemplateMethod/restaurent/Restaurent.java" />
-        <option value="$PROJECT_DIR$/src/lab/TemplateMethod/restaurent/ManagerDemo.java" />
         <option value="$PROJECT_DIR$/src/lab/TemplateMethod/restaurent/AbstractRestaurent.java" />
         <option value="$PROJECT_DIR$/src/lab/TemplateMethod/restaurant/AbstractRestaurent.java" />
         <option value="$PROJECT_DIR$/src/lab/TemplateMethod/restaurant/AbstractRestaurant.java" />
@@ -270,6 +225,19 @@
         <option value="$PROJECT_DIR$/src/lab/state/exemple/State.java" />
         <option value="$PROJECT_DIR$/src/lab/state/meeting/state/WaitingToSpeak.java" />
         <option value="$PROJECT_DIR$/src/lab/state/readme.md" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/CheckAuthority.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/PurchasePower.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/readme.md" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/hollidayRequest.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/armeePower.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/ArmyPower.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/HolidayRequest.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/Capitaine.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/SergentMajor.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/Lieutenant.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/Capitaine.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequest.java" />
+        <option value="$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequestDemo.java" />
       </list>
     </option>
   </component>
@@ -332,37 +300,64 @@
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-              <item name="exemple" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-              <item name="meeting" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="swissMilitary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="chainOfResponsability" type="462c0819:PsiDirectoryNode" />
+              <item name="swissMilitary" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="Facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -374,7 +369,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="267" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541958590233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541960932848" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lab/composite/uml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -392,11 +387,11 @@
       <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\factory\building" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\chainOfResponsability\example" />
       <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\state\exemple" />
       <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\composite\footballTeam" />
       <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\menuIterator" />
       <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\composite\menu" />
-      <recent name="C:\Users\Widness\Documents\Projects\designPatterns\src\lab\TemplateMethod\restaurant" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -411,14 +406,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SkypeDemo">
-    <configuration name="CarSensorSingletonLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.singleton.carSensors.CarSensorSingletonLauncher" />
+  <component name="RunManager" selected="Application.HolidayRequestDemo">
+    <configuration name="CheckAuthority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.chainOfResponsability.example.CheckAuthority" />
       <module name="designPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab.singleton.carSensors.*" />
+          <option name="PATTERN" value="lab.chainOfResponsability.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -440,13 +435,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarioCartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.mediator.MarioCart.MarioCartDemo" />
+    <configuration name="HolidayRequestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.chainOfResponsability.swissMilitary.HolidayRequestDemo" />
       <module name="designPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab.mediator.MarioCart.*" />
+          <option name="PATTERN" value="lab.chainOfResponsability.swissMilitary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,13 +449,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlineShopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.decorator.onlineShop.OnlineShopDemo" />
+    <configuration name="MarioCartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.mediator.MarioCart.MarioCartDemo" />
       <module name="designPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab.decorator.onlineShop.*" />
+          <option name="PATTERN" value="lab.mediator.MarioCart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -505,19 +500,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OnlineShopDemo" />
-      <item itemvalue="Application.CarSensorSingletonLauncher" />
       <item itemvalue="Application.MarioCartDemo" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.SkypeDemo" />
+      <item itemvalue="Application.CheckAuthority" />
+      <item itemvalue="Application.HolidayRequestDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HolidayRequestDemo" />
+        <item itemvalue="Application.CheckAuthority" />
         <item itemvalue="Application.SkypeDemo" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.MarioCartDemo" />
-        <item itemvalue="Application.CarSensorSingletonLauncher" />
-        <item itemvalue="Application.OnlineShopDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -559,17 +554,46 @@
       <workItem from="1541933917283" duration="6246000" />
       <workItem from="1541942687398" duration="478000" />
       <workItem from="1541943203585" duration="122000" />
-      <workItem from="1541943373915" duration="13740000" />
+      <workItem from="1541943373915" duration="16107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82007000" />
+    <option name="totallyTimeSpent" value="84374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978479" visible="true" weight="0.21208054" />
+      <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021521" side_tool="true" weight="0.24195223" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.37021276" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32178932" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978479" visible="true" weight="0.21208054" />
       <window_info id="Structure" order="1" sideWeight="0.5010846" side_tool="true" weight="0.10714286" />
       <window_info id="Image Layers" order="2" />
@@ -598,7 +622,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -607,169 +631,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/menuIterator/MenuItem.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/menuIterator/Waitress.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/uml.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/uml/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/lab.composite.menu">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>lab.composite.menu</OriginalElement>
-          <nodes>
-            <node x="" y="">lab.composite.menu.MenuComponent</node>
-            <node x="" y="">lab.composite.menu.MenuTestDrive</node>
-            <node x="" y="">lab.composite.menu.MenuItem</node>
-            <node x="" y="">lab.composite.menu.Waitress</node>
-            <node x="" y="">lab.composite.menu.Menu</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="99.0" y="128.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/uml/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/uml/Composite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/lab.composite.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>lab.composite.uml</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="587.0" y="327.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/Leaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/menuIterator/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/Composite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#564#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/component/Playable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/component/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/composite/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab/composite/footballTeam/composite/Team.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -1094,10 +955,146 @@
     <entry file="file://$PROJECT_DIR$/src/lab/state/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="99" selection-start-line="2" selection-start-column="99" selection-end-line="2" selection-end-column="99" />
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/Facade/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/factory/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/swissMilitary/handler/askForHolliday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/ManagerPPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/PurchasePower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/DirectorPPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/ArmyPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/VicePresidentPPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/handler/PresidentPPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/SergentMajor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/Lieutenant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/HolidayRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/request/PurchaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/example/CheckAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" selection-start-line="28" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab/chainOfResponsability/swissMilitary/handler/Capitaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
