@@ -10,7 +10,7 @@ import ch.hevs.design_patterns.lab1_ex1.monitor.PatientMonitoring;
 public class Main {
 
     /**
-     * @param args the command line arguments
+     * @param args the commands line arguments
      */
     public static void main(String[] args) {
 
