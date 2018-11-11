@@ -1,6 +1,12 @@
-Example: When we play with a remote control (telecommand)
+**Intent:** let you parameterize clients with 
+ - different requests
+ - queue
+ - log requests
+ - Undoable operations
 
-Participants: 
+**Example:** When we play with a remote control (telecommand)
+
+**Participants:** 
   * Client (RemoteLoader)
     - Create Receiver (Light)
     - Give to them a ConcreteCommand (LightOnCommand)
@@ -10,15 +16,15 @@ Participants:
     - Binds buttons and they action 
     - Trigger the action on click
     
-   * receiver (Light)
+  * receiver (Light)
     - The object with his value (position, intensity)
     
-   * ConcreteCommand (LightOnCommand)
+  * ConcreteCommand (LightOnCommand)
     - Execute, Undo the receiver
     
-   * Command
+  * Command
     - Execute, Undo
     - store, load (for the logging)
     
-   * MacroCommand
+  * MacroCommand
     - Enable multiple ConcreteCommand to be trigger in one action
